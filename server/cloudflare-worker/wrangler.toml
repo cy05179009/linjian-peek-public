@@ -5,7 +5,7 @@ compatibility_date = "2026-08-22"
 [[d1_databases]]
 binding = "DB"
 database_name = "linjian-peek"
-database_id = "46903b5a-5bee-4d90-4c46-a0dd0bd425f0"
+database_id = "46903b5a-56ee-4d90-ac46-a0dd0bd425f0"
 
 [[kv_namespaces]]
 binding = "SCREENSHOT_KV"
